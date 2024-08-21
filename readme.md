@@ -1,0 +1,1 @@
+This is a simple website to check the status of a web server. 

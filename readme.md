@@ -1,4 +1,4 @@
-This is a simple website to check if a server is up.
+This is a simple website to check if a server is up. It uses https and a self-signed certificate. The server is written in Python.
 
 ## How to use
 

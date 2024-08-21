@@ -43,7 +43,7 @@ DNS.1 = localhost
 3. Before running the server, generate an **SSL certificate** and a **private key**
 
 ```
-openssl req -x509 -newkey rsa:4096 -keyout key.pem -out cert.pem -days 365 -nodes -config ../openssl.cnf
+openssl req -x509 -newkey rsa:4096 -keyout key.pem -out cert.pem -days 365 -nodes -config ./openssl.cnf
 ```
 
 4. Start the https server with `server-up.py`

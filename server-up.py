@@ -6,7 +6,7 @@ class ThreadingSimpleServer(ThreadingMixIn, http.server.HTTPServer):
     pass
 
 # Define the server address and port
-server_address = ('localhost', 4443)
+server_address = ('0.0.0.0', 4443)
 
 # Use the SimpleHTTPRequestHandler, which serves files from the current directory
 handler = http.server.SimpleHTTPRequestHandler

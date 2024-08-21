@@ -15,7 +15,7 @@ mkdir secrets
 cd secrets
 ```
 
-3. Edit the `openssl.cnf` with your own data
+3. Create and edit the `openssl.cnf` with your own data
 
 ```
 [req]

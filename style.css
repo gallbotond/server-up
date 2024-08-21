@@ -5,7 +5,7 @@
 }
 
 body {
-    background: url("./img/nodes.png");
+    background: url("./img/nodes\ \(Medium\).png");
     background-size: cover;
     background-position: center;
     font-family: "Montserrat", sans-serif;
@@ -28,10 +28,10 @@ main {
     max-width: 800px;
     gap: 2em;
     padding: 2em;
-    background-color: rgba(13, 22, 22, 0.4);
+    background-color: rgba(13, 22, 22, 0.548);
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
-    border: 2px solid rgba(121, 235, 235, 0.247);
+    border: 2px solid rgba(121, 235, 235, 0.356);
     backdrop-filter: blur(5px);
 }
 

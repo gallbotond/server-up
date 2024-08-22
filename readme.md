@@ -1,4 +1,5 @@
-This is a simple website to check if a server is up. It uses **https** and a **self-signed certificate**. The server is written in Python.
+This is a [simple website](https://gallbotond.github.io/server-up/) to check if a server is up. It uses **https** and a **self-signed certificate**. 
+The multithreaded server is written in Python.
 
 ## How to use
 

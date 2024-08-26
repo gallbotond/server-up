@@ -52,3 +52,12 @@ openssl req -x509 -newkey rsa:4096 -keyout key.pem -out cert.pem -days 365 -node
 ```
 python3 server-up.py
 ```
+
+## Extras 
+
+It will display basic information about the client's browser and operating system.  
+![on google chrome](https://github.com/user-attachments/assets/cb52a2fa-5566-4ab2-991e-c3ecf4b088a4)
+
+If it doesn't, it means the browser is privacy respecting, and blocked the requests.
+![on librewolf (based on firefox)](https://github.com/user-attachments/assets/64f25ebd-f2eb-4e10-bf26-adc1a35fd7ea)
+

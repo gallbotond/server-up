@@ -1,4 +1,4 @@
-This is a [simple website](https://gallbotond.github.io/server-up/) to check if a server is up by being hosted from the said machine. 
+This is a [simple website](https://gallbotond.github.io/server-up/website/) to check if a server is up by being hosted from the said machine. 
 
 It uses **https** and a **self-signed certificate**. The multithreaded server is written in Python.
 

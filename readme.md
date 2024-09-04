@@ -50,6 +50,8 @@ openssl req -x509 -newkey rsa:4096 -keyout key.pem -out cert.pem -days 365 -node
 
 4. Start the https server with `server-up.py`
 
+> Make sure you are in the website folder!
+
 ```
 python3 server-up.py
 ```
